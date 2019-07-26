@@ -19,5 +19,6 @@ SimplePatchTool is a general-purpose patcher library for **standalone** applicat
 ## ROADMAP
 
 - [x] Updated Play And Patch Button
+- [ ] Added Login Ui
 - [ ] UI enhaced
 - [ ] calculate the estimated remaining time
