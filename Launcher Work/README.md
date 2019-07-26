@@ -1,5 +1,5 @@
 # Simple Patch Tool
-
+**CREATED AND MANAGED BY DHANANJAY SENDAY**
 ![screenshot](Images/launcher-winforms.png)
 
 SimplePatchTool is a general-purpose patcher library for **standalone** applications.
@@ -19,5 +19,5 @@ SimplePatchTool is a general-purpose patcher library for **standalone** applicat
 ## ROADMAP
 
 - [x] Updated Play And Patch Button
-- [] UI enhaced
+- [ ] UI enhaced
 - [ ] calculate the estimated remaining time
