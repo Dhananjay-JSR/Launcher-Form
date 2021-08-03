@@ -1,2 +1,1 @@
-# Launcher
- launcher made using vs
+# DEPRECATED, DON'T USE THIS PLUGIN, YOU WILL ENCOUNTER BUGS.
